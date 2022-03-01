@@ -1,24 +1,41 @@
-# README
+# HomeStockMaker
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+お家の中の様々な消耗品等のストックを管理できるサイト。
 
-Things you may want to cover:
+### サイトテーマ
+食用品や日用品のストック管理。
 
-* Ruby version
+### テーマを選んだ理由
+テーマの選定にあたって、周囲の人に聞き込みをし家の中のあらゆる<br>
+もののストックを管理したいとの要望がありました。<br>
+自分自身も出先で買い物に行く際に冷蔵庫の中身の確認を怠った結果<br>
+同じもの買ってしまうということが起き、無駄遣いに繋がっていた。<br>
+無駄遣いを抑えつつ、気づかない間に使用期限が過ぎてしまい捨てる<br>
+ということも抑えられるようにと思い、このテーマにしました。
 
-* System dependencies
+### ターゲットユーザ
+主に主婦層の方や、無駄遣いを抑えたいと考えている方。
 
-* Configuration
+### 主な利用シーン
+何かを購入するとき、今家にあるものを確認しながら買い物をしたい<br>
+ときなど。
 
-* Database creation
+## 設計書
+今後作成
 
-* Database initialization
+## チャレンジ要素一覧
+なんとなくアプリのイメージはできているのですが、必要機能が少なくなりそうです。
+なにかアドバイズいただけないでしょうか
+https://docs.google.com/spreadsheets/d/1nuVI9rMsSY83fDqJlUClb2IxZ5w0E1TlnWsKZR3w198/edit?usp=sharing
 
-* How to run the test suite
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 使用素材
+食品などのアイコンを作成するために、なにかいいものがあれば使用<br>
+したいと思います。
