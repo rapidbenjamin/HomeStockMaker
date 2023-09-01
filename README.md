@@ -1,41 +1,5 @@
-# HomeStockMaker
+# Home Maker AI
 
-## サイト概要
-お家の中の様々な消耗品等のストックを管理できるサイト。
+Generate a dream interior using  artificial intelligence .
 
-### サイトテーマ
-食用品や日用品のストック管理。
-
-### テーマを選んだ理由
-テーマの選定にあたって、周囲の人に聞き込みをし家の中のあらゆる<br>
-もののストックを管理したいとの要望がありました。<br>
-自分自身も出先で買い物に行く際に冷蔵庫の中身の確認を怠った結果<br>
-同じもの買ってしまうということが起き、無駄遣いに繋がっていた。<br>
-無駄遣いを抑えつつ、気づかない間に使用期限が過ぎてしまい捨てる<br>
-ということも抑えられるようにと思い、このテーマにしました。
-
-### ターゲットユーザ
-主に主婦層の方や、無駄遣いを抑えたいと考えている方。
-
-### 主な利用シーン
-何かを購入するとき、今家にあるものを確認しながら買い物をしたい<br>
-ときなど。
-
-## 設計書
-今後作成
-
-## チャレンジ要素一覧
-なんとなくアプリのイメージはできているのですが、必要機能が少なくなりそうです。
-なにかアドバイズいただけないでしょうか
-https://docs.google.com/spreadsheets/d/1nuVI9rMsSY83fDqJlUClb2IxZ5w0E1TlnWsKZR3w198/edit?usp=sharing
-
-## 開発環境
-- OS：Linux(CentOS)
-- 言語：HTML,CSS,JavaScript,Ruby,SQL
-- フレームワーク：Ruby on Rails
-- JSライブラリ：jQuery
-- IDE：Cloud9
-
-## 使用素材
-食品などのアイコンを作成するために、なにかいいものがあれば使用<br>
-したいと思います。
+![homemaker](https://github.com/rapidbenjamin/HomeStockMaker/blob/main/public/homemaker.png)
